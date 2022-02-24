@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition and declaration of Richard Langhorne a nototrious Papist now in Newgate condemned for treason : presented to His Majesty in Council at Hampton-Court, the 10th of this instant July, 1679 : in which he avowedly owneth several popish principles and tenets, relating to what he believeth and thinketh himself bound to believe by his popish principles, in relation to the duty which he, and it is believed that our English Papists hold the same, is bound to pay to his present Majesty, a true Protestant prince.</title>
+            <author>Langhorne, Richard, 1654-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49554</idno>
+            <idno type="STC">Wing L398</idno>
+            <idno type="STC">ESTC R5181</idno>
+            <idno type="EEBO-CITATION">13483867</idno>
+            <idno type="OCLC">ocm 13483867</idno>
+            <idno type="VID">99719</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49554)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99719)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 461:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition and declaration of Richard Langhorne a nototrious Papist now in Newgate condemned for treason : presented to His Majesty in Council at Hampton-Court, the 10th of this instant July, 1679 : in which he avowedly owneth several popish principles and tenets, relating to what he believeth and thinketh himself bound to believe by his popish principles, in relation to the duty which he, and it is believed that our English Papists hold the same, is bound to pay to his present Majesty, a true Protestant prince.</title>
+                  <author>Langhorne, Richard, 1654-1679.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:99719:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <head>THE PETITION AND DECLARATION OF Richard Langhorne (A notorious Papiſt now in <hi>Newgate</hi> Condemned for Treaſon) PRESENTED To His MAJESTY in Council at <hi>Hampton-Court,</hi> 
+               <date>The 10th of this inſtant <hi>July,</hi> 1679.</date>
+            </head>
+            <argument>
+               <p>In which He avowedly owneth ſeveral Popiſh Principles and Tenets, relating to what he believeth, and thinketh himſelf bound to believe by his Popiſh Principles, in relation to the Duty which he (and it is believed that our Engliſh Papiſts hold the ſame) is bound to pay to his preſent Majeſty, a true Proteſtant Prince.</p>
+            </argument>
+            <div type="publisher_to_the_reader">
+               <head>The P<g ref="char:V">Ʋ</g>BLISHER to the READER.</head>
+               <opener>
+                  <salute>Courteous Reader,</salute>
+               </opener>
+               <p>IT is an Opinion ſo commonly received for true amongſt us here in <hi>England,</hi> That Papiſts have leave from their Prieſts to diſ<g ref="char:EOLhyphen"/>own at their death thoſe Principles by which they have ſteer<g ref="char:EOLhyphen"/>ed the Actions of their Lives, that I thought it would not be ungrateful to the Publick, to ſet forth the avowed Tenents of this Popiſh Traytor, that he may not find a Caſe of Conſcience to diſown next Munday at the Gallows, that he ſo lately gave under his Hand to
+<pb n="2" facs="tcp:99719:2"/>
+                  <!-- PDF PAGE 59 -->
+the King and Councel, without receiving the juſt infamy due to Per<g ref="char:EOLhyphen"/>jury. For though the different impreſſions of the Speeches of the late Executed Jeſuits, and Remarks upon them, may occaſion ſe<g ref="char:EOLhyphen"/>veral doubts and miſ-interpretations, yet I am ſure, this can hardly admit of either to an impartial Reader: For ſhould Mr. <hi>Langhorne</hi> have the confidence to deny, that any word in the following Petition or Declaration is not ſuch as he ſigned and ſent to His Majeſty in Councel, the very Clark of the Councel in waiting, (who I ſuppoſe may yet have the Petition by him) as well as the Party that deli<g ref="char:EOLhyphen"/>vered it, can teſtifie the contrary.</p>
+               <p>I love not to inſult over Condemned perſons, nor thoſe who are accuſed of the moſt deteſtable Crimes; and therefore hope it will not be thought to ſavour of Reflection, if I ſay, that I have rea<g ref="char:EOLhyphen"/>ſon to believe, That Mr. <hi>Langhorn</hi> hath bred up his Children in the Principles he owns in his Declaration, ſince one of them is now in <hi>Newgate,</hi> and accuſed for acting in that horrid Plot, for which the Father ſtands Condemned. And that you may not here be trou<g ref="char:EOLhyphen"/>bled with needleſs Arguments to ſhew how far contrary ſuch Te<g ref="char:EOLhyphen"/>nets as he owneth are to thoſe of even all the Reformed Churches, from the firſt <hi>Waldenſes</hi> of <hi>Lyons</hi> and <hi>Languedock,</hi> to this very day, I refer you to the Reaſons and Citations of a late printed Paper, Enti<g ref="char:EOLhyphen"/>tuled, <hi>Pereat-Papa,</hi> where for a penny you may ſee how contrary the Principles and Tenets of this Popiſh Malefactor, in point of obe<g ref="char:EOLhyphen"/>dience to Princes, <hi>&amp;c.</hi> are to what the aforeſaid Reformed Churches have taught from time to time.</p>
+               <closer>
+                  <dateline>
+                     <date>11 July,1679.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="petition">
+               <pb n="3" facs="tcp:99719:2"/>
+               <!-- PDF PAGE 59 -->
+               <head>
+                  <hi>To the Kings moſt Excellent Majeſty.</hi> The humble PETITION of <hi>Richard Langhorne,</hi> A Priſoner Condemned in the Goal of <hi>Newgate,</hi>
+               </head>
+               <opener>Humbly ſheweth,</opener>
+               <p>THat your Majeſties Petitioner, with all gratitude of heart and Soul imagi<g ref="char:EOLhyphen"/>nably, humbly thanks your Majeſty for your Mercie in giving him Life until <hi>Munday</hi> next.</p>
+               <p>That your Petitioner is wholly ignorant of the ſubſtance of that Letter men<g ref="char:EOLhyphen"/>tioned in your Majeſties Order of Council, of the third inſtant, to have been written by the Earl of <hi>Roſcomon,</hi> as alſo of the grounds upon which it was writ<g ref="char:EOLhyphen"/>ten; and therefore hopes that your Majeſtie will not permit your Petitioners life to be taken away, before that be clearly underſtood.</p>
+               <p>That your Petitioner having, in obedience to your Majeſties particular Com<g ref="char:EOLhyphen"/>mand, made a full, clear, and ſincere diſcoverie of all thoſe Eſtates which your Majeſtie commanded him to diſcover, humbly offers unto your Majeſties merciful conſideration, the Proteſtation and Declaration by your Petitioner hereunto an<g ref="char:EOLhyphen"/>nexed; by which he no way intends to reflect upon your Majeſties Juſtice, or the Juſtice of the Judges or Jurie by whom he was tried: and humbly begs, that the ſame may not be interpreted to intend any ſuch reflection. And that your Maje<g ref="char:EOLhyphen"/>ſtie will pleaſe to conſider, that it is not impoſſible for an innocent perſon to be Condemned, ſince it is not many years paſt that three perſons were executed and hanged in Chains, being condemned for the murther of one who appeared af<g ref="char:EOLhyphen"/>terwards to be living: And this without any juſt cauſe of reflection upon the Juſtice of your Majeſtie, or of their Judges or Jurie.</p>
+               <p>That your Petitioner humbly beggs leave to hope, that when your Majeſtie ſhall have conſidered his ſaid Declaration, you will, out of the abundance of your natural inclinations to Mercie, either vouchſafe to give him his Pardon, ſo as to enable him to ſpend the remainder of his life in the Service of your Maje<g ref="char:EOLhyphen"/>ſtie and his Countrie; or at leaſt, give him leave to live, though it be abroad, and in perpetual baniſhment, he having fully obeyed your Majeſties Commands in diſcovering every thing within his knowledge which hath been required to be by him diſcovered; and the Caſe of your Petitioner being ſingular, as not having above any one Witneſs to any one particular matter of Fact given in Evidence a<g ref="char:EOLhyphen"/>gainſt him, as the Judges can inform your Majeſtie.</p>
+               <p>Your Majeſties Petitioner therefore humbly caſts himſelf at your Majeſties feet, humbly imploring your Royal Mercie, and that you will be graciouſly pleaſed to give him his life, that he may ſpend it wholly in praying for your Majeſties long and happie Life, Reign, and Government.</p>
+               <closer>
+                  <signed>And your Petitioner (as in Duty bound) ſhall dayly pray for your moſt Sacred Majeſty, <hi>&amp;c.</hi> R. Langhorne.</signed>
+               </closer>
+            </div>
+            <div type="declaration_of_allegiance">
+               <pb n="4" facs="tcp:99719:3"/>
+               <!-- PDF PAGE 60 -->
+               <head>I do ſolemnly and ſincerely, in the preſence of Almighty God, profeſs, teſti<g ref="char:EOLhyphen"/>fie, and declare, as follows: That is to ſay,</head>
+               <p n="1">1. THat I do believe and own my moſt Gracious Soveraign Lord the Kings Majeſty, King <hi>CHARLES</hi> the Second, to be my true and lawful Soveraign Prince and King, in the ſame ſence and latitude, to all intents and pur<g ref="char:EOLhyphen"/>poſes, as in the Oath commonly called <hi>The Oath of Allegiance,</hi> his ſaid Majeſtie is expreſſed to be King of this Realm of <hi>England.</hi>
+               </p>
+               <p n="2">2. That I do in my Soul believe, That neither the Pope, nor any Prince, Po<g ref="char:EOLhyphen"/>tentate, or Forrain Authority, nor the people of <hi>England,</hi> nor any Authority out of this Kingdom, or within the ſame, hath or have any right to diſpoſſeſs His ſaid Majeſty of the Crown and Government of <hi>England,</hi> or to Depoſe him therefrom, for any cauſe, or pretended cauſe whatſoever; or to give Li<g ref="char:EOLhyphen"/>cenſe to me, or to any other of His Majeſties Subjects whatſoever, to bear Arms againſt His Majeſty, or to take away his Life, or to do him any bodily harm, or to diſturb the Government of this Kingdom, as it is now eſtabliſhed by Law, or to alter, or go about to alter the ſaid Government, or the Religion now eſtabliſhed in <hi>England,</hi> by any way of force.</p>
+               <p n="3">3. That I neither am, nor ever was at any time guilty ſo much as in my moſt ſecret thoughts, of any Treaſon, or Miſpriſion of Treaſon whatſoever.</p>
+               <p n="4">4. That I do believe, that if I did know, or ſhould know of any Treaſon or Treaſonable Deſign, that was, or is intended, or ſhould be intended againſt his ſaid Majeſty, or the Government of this His Majeſties Kingdom, or for the al<g ref="char:EOLhyphen"/>teration, by Force, Advice, or otherwiſe, of the ſaid Government, or of the Re<g ref="char:EOLhyphen"/>ligion now eſtabliſhed in this Kingdom; and ſhould conceal and not diſcover the ſame unto his ſaid Majeſty, or His Majeſties Councel or Miniſters, or ſome of them, that ſuch concealment would be in me a ſin unto death and Eternal Damnation.</p>
+               <p>And I do ſolemnly, in the preſence of God, profeſs, teſtifie, and declare, That as I hope for Salvation, or expect any benefit by the Blood and Paſſion of Jeſus Chriſt, I do make this Declaration, and every part thereof, in the plain and or<g ref="char:EOLhyphen"/>dinary ſence of the words wherein the ſame ſtand written, as they are com<g ref="char:EOLhyphen"/>monly underſtood by <hi>Engliſh</hi> Proteſtants, and the Courts of Juſtice of <hi>England,</hi> without any evaſion or equivocation, or deluſion or mental reſervation whatſo<g ref="char:EOLhyphen"/>ever; and without any Diſpenſation or Pardon, or Abſolution already granted to me, for this or any other purpoſe, by the Pope, or any other Authority or perſon whatſoever; or without any hope of any ſuch Diſpenſation, and without think<g ref="char:EOLhyphen"/>ing or believing that I am or can be acquitted before God or Man, or Abſolved of this Declaration, or any part thereof, although the Pope, or any other per<g ref="char:EOLhyphen"/>ſon or perſons, or power whatſoever, ſhould diſpence with or annul the ſame, or declare that it was or is null or void from the beginning.</p>
+               <closer>
+                  <signed>R. Langhorne.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
